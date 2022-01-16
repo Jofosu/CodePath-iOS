@@ -19,7 +19,7 @@ The following **required** functionality is complete:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/4VtiqWA" data-context="false" ><a href="//imgur.com/a/4VtiqWA"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <img src='https://imgur.com/a/4VtiqWA.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
